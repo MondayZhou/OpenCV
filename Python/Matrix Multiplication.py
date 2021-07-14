@@ -3,6 +3,7 @@ import matplotlib.pyplot as plt
 
 fig = plt.figure()
 
+//定义正方形的四个顶点
 A0 = np.array([
     [0],
     [0],
